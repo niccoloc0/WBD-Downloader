@@ -1,0 +1,14 @@
+C:\Users\NC\Documents\Dev\WBD-Downloader\bin\Debug\net8.0\WBD-Downloader.exe
+C:\Users\NC\Documents\Dev\WBD-Downloader\bin\Debug\net8.0\WBD-Downloader.deps.json
+C:\Users\NC\Documents\Dev\WBD-Downloader\bin\Debug\net8.0\WBD-Downloader.runtimeconfig.json
+C:\Users\NC\Documents\Dev\WBD-Downloader\bin\Debug\net8.0\WBD-Downloader.dll
+C:\Users\NC\Documents\Dev\WBD-Downloader\bin\Debug\net8.0\WBD-Downloader.pdb
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.AssemblyInfoInputs.cache
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.AssemblyInfo.cs
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.csproj.CoreCompileInputs.cache
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.dll
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\refint\WBD-Downloader.dll
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.pdb
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\WBD-Downloader.genruntimeconfig.cache
+C:\Users\NC\Documents\Dev\WBD-Downloader\obj\Debug\net8.0\ref\WBD-Downloader.dll
