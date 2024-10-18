@@ -14,7 +14,8 @@ This simple tool allows you to download high-resolution images from the [Warner 
 3. The program only accepts two types of URLs:
     - https://static.cdn.turner.com/styles/thumbnail_image_cropped_564x318/s3/images/2024-10/cristin-milioti_9.jpg
     - https://static.cdn.turner.com/styles/scale_792/s3/images/2024-10/cristin-milioti_9.jpg
-4. Enter the URL and hit Enter. If you wish to exit the program, simply type . and press Enter.
+4. Enter the URL and hit Enter. If you wish to exit the program, simply type ```.```
+ and press Enter.
 5. The image will be downloaded and saved in your Downloads folder.
 
 ## Support
