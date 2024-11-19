@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/github/v/release/niccoloc0/WBD-Downloader?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/niccoloc0/WBD-Downloader/releases/latest)
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/niccoloc0/WBD-Downloader/WBD-Downloader.exe?label=Total%20Downloads&style=for-the-badge)
 
-This simple tool allows you to download high-resolution images from the [Warner Bros. Discovery press site](https://press.wbd.com/) without the need for an account. While normally you might only access downscaled versions (typically 1920x1080 pixels), WBD-Downloader enables you to download images up to 3000x2000 pixels.
+This simple tool allows you to download high-resolution images from the [Warner Bros. Discovery press site](https://press.wbd.com/) without the need for an account. While normally you might only access downscaled versions (typically 1920x1280 pixels), WBD-Downloader enables you to download images up to 3000x2000 pixels and, sometimes, 4500x3000 pixels.
 
 ## Usage
 
